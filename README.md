@@ -3,21 +3,17 @@
        width="50%" 
        style="border-radius: 10px; margin-bottom: 15px;"
        alt="Coding GIF"/>
-
   <h1>👋 Halo, Gue <span style="color:#00ff9d">Aulia Raffi</span></h1>
-  
   <p><strong>Beginner Developer</strong> • Lagi Belajar Programming 🔥</p>
 </div>
 
 ---
 
 ### 🌟 Tentang Gue
-
 - 🔭 Sedang fokus belajar **Python**, **HTML**, dan **CSS**
 - Belajar coding sampai dapat mobil porche 
 
 ### 🛠 Tech Stack yang Sedang Dipelajari
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css&perline=6" height="80"/>
 </div>
@@ -25,14 +21,12 @@
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AuliaRaffi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AuliaRaffi&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AuliaRaffi&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=AuliaRaffi&theme=tokyonight&hide_border=true" height="180"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuliaRaffi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AuliaRaffi&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
