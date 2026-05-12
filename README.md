@@ -1,69 +1,41 @@
-<h1 align="center">Hi 👋, I'm Aulia Raffi</h1>
-<h3 align="center">Informatics Engineering Student | Future Full Stack Developer</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXp5dGowcDduOXFsYW5yeHVrbnlmdHlxa3lqN2YyY2NkazNzZHJ5OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RWR8TtwTbtpymwB6yf/giphy.gif" 
+       width="60%" 
+       style="border-radius: 10px; margin-bottom: 15px;"
+       alt="Coding GIF"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Learning+Full+Stack+Development;Building+Projects+Everyday" />
-</p>
-
----
-
-## 🚀 About Me
-- 🎓 Informatics Engineering Student from Indonesia  
-- 🌱 Currently learning **HTML, CSS, JavaScript, PHP, Python, MySQL**
-- 🎯 Goal: Become a **Full Stack Developer**
-- 💻 Interested in Web Development, Backend, and UI Design
+  <h1>👋 Halo, Gue <span style="color:#00ff9d">Aulia Raffi</span></h1>
+  
+  <p><strong>Beginner Developer</strong> • Lagi Belajar Programming 🔥</p>
+</div>
 
 ---
 
-## 🛠 Tech Stack
+### 🌟 Tentang Gue
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode" />
-</p>
+- 🔭 Sedang fokus belajar **Python**, **HTML**, dan **CSS**
 
----
+### 🛠 Tech Stack yang Sedang Dipelajari
 
-## 📌 Current Projects
-- 🔹 python-journey
-- 🔹 HTML-CSS-PHP-MYSQL
-- 🔹 personal-web-project
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css&perline=6" height="80"/>
+</div>
 
 ---
 
-## 📈 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AuliaRaffi&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuliaRaffi&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AuliaRaffi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AuliaRaffi&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
+</div>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AuliaRaffi&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuliaRaffi&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-## 🎯 Goals 2026
-- ✅ Build more real projects
-- ✅ Master backend fundamentals
-- ✅ Learn JavaScript deeply
-- ✅ Become internship/job ready
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://github.com/AuliaRaffi">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Small progress is still progress."</i>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AuliaRaffi&color=00ff9d&style=for-the-badge&label=Profile+Views"/>
+</div>
