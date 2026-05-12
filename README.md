@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXp5dGowcDduOXFsYW5yeHVrbnlmdHlxa3lqN2YyY2NkazNzZHJ5OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RWR8TtwTbtpymwB6yf/giphy.gif" 
-       width="60%" 
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b210MGdkbGdqb3FvMHhiM2JrOGgwMGJjZ25pMjlraGxjeGxrMGprdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t1GZJovEqhN2t5CJVZ/giphy.gif" 
+       width="50%" 
        style="border-radius: 10px; margin-bottom: 15px;"
        alt="Coding GIF"/>
 
@@ -14,6 +14,7 @@
 ### 🌟 Tentang Gue
 
 - 🔭 Sedang fokus belajar **Python**, **HTML**, dan **CSS**
+- Belajar coding sampai dapat mobil porche 
 
 ### 🛠 Tech Stack yang Sedang Dipelajari
 
