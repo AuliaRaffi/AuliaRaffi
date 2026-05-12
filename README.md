@@ -22,11 +22,11 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AuliaRaffi&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://readme-stats.clckblog.space/api?username=AuliaRaffi&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://streak-stats.demolab.com/?user=AuliaRaffi&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AuliaRaffi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-stats.clckblog.space/api/top-langs/?username=AuliaRaffi&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
